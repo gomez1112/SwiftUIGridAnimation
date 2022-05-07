@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// Model
 struct Photo: Identifiable {
     var id = UUID()
     var name: String
