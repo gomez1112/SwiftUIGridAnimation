@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    //Sample photo
+    //Sample photo 2
     @State private var photoSet = samplePhotos
     @State private var selectedPhotos: [Photo] = []
     @State private var selectedPhotoId: UUID?
